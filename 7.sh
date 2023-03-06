@@ -1,0 +1,1 @@
+who -S | grep [s]*
