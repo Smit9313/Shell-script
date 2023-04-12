@@ -6,4 +6,4 @@ then
 	echo "Current working directory $p"
 else
 	echo "not exist.."
-f
+fi

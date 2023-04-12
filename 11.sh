@@ -7,7 +7,7 @@ do
 	then
 		ordinary_file=$((ordinary_file+1))
 	elif [ -d $i ]
-	then
+	then"
 		directory_file=$((directory_file+1))
 	fi
 done

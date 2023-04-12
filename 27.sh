@@ -8,3 +8,11 @@ then
 else
 	echo "Folder $f1 not exist"
 fi
+
+
+:'
+
+echo "Hidden files in current directory:"
+ls -a | grep "^\."
+
+'

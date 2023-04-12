@@ -13,6 +13,9 @@ case $ch in
 		a three line 
 		1.Text message";;
 	4)uname -a;;
+	# cat /etc/os-release
+	# cat /etc/issue
+	# lsb_release -a
 	5)man cat;;
 	*)echo "Invalid Option"
 esac
